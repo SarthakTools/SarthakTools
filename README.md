@@ -7,7 +7,7 @@
 - 💬 Ask me about **Python(Tkinter and CustomTkinter)**
 
 - 📫 How to reach me **sarthakparmarjaunpur@gmail.com**
-- 
+  
 - ⚡ Website **https://www.pytech.framer.com**
-- 
+  
 - ✨ YouTube Channel **https://www.youtube.com/@CustomTkinter
